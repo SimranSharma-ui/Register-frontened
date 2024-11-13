@@ -1,0 +1,61 @@
+body{
+    background-image:url('../assets/library.jpg');
+    background-size: cover;
+    background-position: center;
+}
+.user{
+    font-size: 80px;
+    margin-top: -10px;
+  
+  
+}
+.form1{
+    border: 2px solid white;
+   
+    height: 400px;
+    width:583px;
+    background-color: rgba(255, 255, 255, 0.6); 
+    border-radius: 20px;
+}
+.input{
+    height: 35px;
+    width:450px;
+    margin-left: 75px;
+}
+.button1{
+    background-color: blue;
+    margin-top: 118px;
+    width: 108px;
+    height: 50px;
+    border-radius: 35%;
+
+}
+.h4{
+    color:black;
+    text-align: left;
+    margin-left: 92px;
+    margin-top: 10px;
+}
+.h5{
+    color:black;
+    text-align: left;
+    margin-left: 18px;
+    margin-top: 10px;
+}
+.email1{
+    margin-left: 29px;
+    position: absolute;
+    display:block;
+    margin-top: -30px;
+    color: white;
+}
+.password1{
+    margin-left: 104px;
+    position: absolute;
+    display:block;
+    margin-top: 50px;
+    color: white;
+ }
+ .regis{
+    color:black
+ }
